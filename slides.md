@@ -609,13 +609,29 @@ hideLogoInCorner: true
 
 # Slides / Repo
 
-* Slides: [https://lichter.link/cb-23/](https://lichter.link/cb-23/)
+<div>
+
+[https://lichter.link/cb-23/](https://lichter.link/cb-23/)
+
+</div>
+
+<div class="flex mx-32 mt-8 justify-around">
+
+<div>
+  <img class="w-32 h-32 mx-auto" src="/qr-yt.png">
+  <p class="text-center">Youtube</p>
+</div>
+
+<div>
+  <img class="w-32 h-32 mx-auto" src="/qr.png">
+  <p class="text-center">Slides</p>
+</div>
+
+</div>
 
 <div class="flex mx-32 justify-around">
 
-<img class="w-32 h-32 mt-16 mx-auto" src="https://raw.githubusercontent.com/manniL/static/main/logo-lightbulb-white-red.svg" />
-
-<img class="w-32 h-32 mt-16 mx-auto" src="/qr.png">
+<img class="w-32 h-32 mx-auto" src="https://raw.githubusercontent.com/manniL/static/main/logo-lightbulb-white-red.svg" />
 
 </div>
 
