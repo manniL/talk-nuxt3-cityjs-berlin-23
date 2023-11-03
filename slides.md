@@ -631,7 +631,7 @@ hideLogoInCorner: true
 
 <div class="flex mx-32 justify-around">
 
-<img class="w-32 h-32 mx-auto" src="https://raw.githubusercontent.com/manniL/static/main/logo-lightbulb-white-red.svg" />
+<img class="w-32 h-32 mx-auto" src="https://raw.githubusercontent.com/manniL/lichter.io/main/public/img/logo/glyph-and-word-white-colored.svg" />
 
 </div>
 
